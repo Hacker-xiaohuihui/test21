@@ -6,6 +6,7 @@ num4 = 44444
 num5 = 99999
 num5 = 50
 name = xiaohuihui
+age = 25
 
 
  
