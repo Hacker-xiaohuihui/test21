@@ -7,6 +7,7 @@ num5 = 99999
 num5 = 50
 name = xiaohuihui
 age = 25
+num10 = 10
 
 
  
